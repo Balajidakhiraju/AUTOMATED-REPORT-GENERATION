@@ -26,5 +26,5 @@ This task showcases data analysis, visualization, and reporting automation using
 
 #Output
 
-
+[solar_power_report.pdf](https://github.com/user-attachments/files/21095306/solar_power_report.pdf)
 
